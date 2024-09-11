@@ -1,0 +1,15 @@
+name: Gngn
+# markdown: redcarpet
+highligher: pygments
+baseurl: 
+permalink: /:title/
+paginate: 10
+future: true
+paginate_path: /blog/page/:num
+description: Blog 
+url: 
+github: [metadata]
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
