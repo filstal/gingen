@@ -1,6 +1,6 @@
 ---
 title: Vielfalt als Fundament einer lebendigen Gesellschaft
-permalink: /doc/vielfalt-als-fundament-einer-lebendigen-gesellschaft
+permalink: /doc/vielfalt-als-fundament-einer-lebendigen-gesellschaft/
 ---
 Vielfalt als Fundament einer lebendigen Gesellschaft
 
