@@ -2,9 +2,9 @@
 title: Aufbau einer digitalen Community
 permalink: /doc/aufbau-einer-digitalen-community/
 ---
-Der Aufbau einer digitalen Community in einer Kommune stellt eine spannende Herausforderung dar. Sie bietet die Chance, Bürgerinnen und Bürger miteinander zu vernetzen, den Austausch zu fördern und so eine lebendige, offene Gesellschaft zu gestalten. Gleichzeitig gilt es, einen Rahmen zu schaffen, der einerseits die Vielfalt der Meinungen und Perspektiven zulässt, andererseits aber auch klare Regeln und Strukturen bietet, um eine konstruktive und respektvolle Kommunikation zu gewährleisten.
+Der **Aufbau einer digitalen Community in einer Kommunalen Region** stellt eine spannende Herausforderung dar. Sie bietet die Chance, Bürgerinnen und Bürger miteinander zu vernetzen, den Austausch zu fördern und so eine lebendige, offene Gesellschaft zu gestalten. Gleichzeitig gilt es, einen Rahmen zu schaffen, der einerseits die **Vielfalt der Meinungen und Perspektiven** zulässt, andererseits aber auch klare Regeln und Strukturen bietet, um eine konstruktive und respektvolle Kommunikation zu gewährleisten.
 
-**Der Aufbau einer digitalen Community in einer Kommune: Eine Balance zwischen Offenheit und Struktur**
+> Der Aufbau einer digitalen Community in einer Kommune: Eine Balance zwischen Offenheit und Struktur.
 
 ## Die offene Gesellschaft als Fundament
 
