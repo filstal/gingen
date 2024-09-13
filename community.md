@@ -11,3 +11,7 @@ Für die Community Funktion benutzen wir Discord.
 Du kannst der Community beitreten indem du dich dort anmeldest. 
 
 [Discord Server beitreten](https://discord.gg/RdZjDPBmcV)
+
+----
+
+Wie du Discord installierst und benutzbar machst, wird [hier](/discord/) beschrieben. 
