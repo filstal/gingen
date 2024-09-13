@@ -11,3 +11,8 @@ Als digitaler Vernetzungsraum wird [Discord](https://discord.gg/RdZjDPBmcV) benu
 Wir sind als Bürgerinitiative organisiert. 
 
 *Mehr Informationen folgen demnächst.*
+
+
+----
+
+Icons by [icons8.com](https://icons8.com/)
