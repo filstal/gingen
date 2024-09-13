@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.doc %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}/doc/{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}/doc/{{ post.url }}" class="read-more" title="Text lesen">–Lesen</a>
+    </article>
+  {% endfor %}
+</div>
