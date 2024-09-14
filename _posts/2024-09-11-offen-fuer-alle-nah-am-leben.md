@@ -1,3 +1,6 @@
+---
+title: Offen für alle nah am Leben
+---
 Offen für alle, nah am Leben – deine digitale Plattform für Austausch und Begegnung.
 Unsere Plattform bietet dir die Möglichkeit, dich mit Gleichgesinnten auszutauschen, neue Leute kennenzulernen und gemeinsam etwas zu bewegen. 
 
