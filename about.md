@@ -11,7 +11,7 @@ permalink: /about/
 
 Digitale Gemeinschaft für Region 07162 {momentan an *Gingen* orientiert}
 
-Als digitaler Vernetzungsraum wird [Discord]([https://discord.gg/RdZjDPBmcV](https://de.wikipedia.org/wiki/Discord) benutzt. 
+Als digitaler Vernetzungsraum wird [Discord](https://de.wikipedia.org/wiki/Discord) benutzt. 
 
 Wir sind als [Bürgerinitiative](https://de.wikipedia.org/wiki/B%C3%BCrgerinitiative) organisiert. 
 
