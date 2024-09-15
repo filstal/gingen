@@ -10,8 +10,27 @@ Für die Community Funktion benutzen wir Discord.
 
 Du kannst der Community beitreten indem du dich dort anmeldest. 
 
-[Discord Server beitreten](https://discord.gg/RdZjDPBmcV)
+[Discord Server beitreten](https://discord.gg/RdZjDPBmcV) <<== Hier kannst du dem Server beitreten.
 
 ----
 
-Wie du Discord installierst und benutzbar machst, wird [hier](/discord/) beschrieben. 
+**Textkanäle:**
+
+- **Willkommen:** Wenn man dem Server beitritt, sieht man diesen Kanal als erstes
+- **Chatraum:** Ein allgemeiner Chatraum
+- **Events:** Regionale, Lokale Events zum selbst ankündigen (kann jeder selbst verwalten)
+- **Humor:** Zum auflockern des Alltags
+- **Nachbarschaftshilfe:** Regionales, Sozialraumorientiertes, konkret
+- **Marktplatz:** Materielles oder Immaterielles anbieten oder suchen. 
+
+**Sprachkanäle:**
+
+- "Plauderecke"
+
+*Weitere Kanäle kommen je nach Bedarf hinzu.*
+
+----
+
+Anleitung, [wie du Discord installierst und benutzbar machst](/discord/). 
+
+
