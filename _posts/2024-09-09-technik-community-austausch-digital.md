@@ -1,8 +1,16 @@
 Wie baut man eine digitale Community für eine Region, Kommune auf technischer Ebene auf, und was gibt es dabei zu beachten. 
 
-Eine Plattform (oder Software) für »digitalen Austausch in einer Region und Kommune« zu finden ist nicht so einfach. Man kann es nicht jedem Recht machen, es gibt viele Möglichkeiten, die Vorraussetzungen und Gewohnheiten von Menschen – was digitales angeht – sind vielfältig und vor allem häuifig sehr unterschiedlich. Es gibt außerdem viele Anbieter von Community-Lösungen, und jedes Angebot hat dabei vielschichtige Aspekte die damit zusammenhängen, die verschiedenartige Vor- und Nachteile mit sich bringen. Manche dieser Angebote bieten Lösungen für ganz spezifische Aspekte, und andere bieten eher allgemeine Möglichkeiten. Alle Angebote sind jedoch zunächst immer an eine »spezifische technische Plattform« gebunden, die sich später nur schwer oder manchmal eher gar nicht mehr verändern oder wechseln und austauschen lässt. Man klebt an diesen Anbietern mit der spezifischen Lösung, oft allein schon aus dem Grund ~ weil alle Daten die entstehen dort liegen, und diese nicht einfach irgendwo anders hin gebracht werden können; das Interesse eines Anbieters auch gar nicht ist, diese Daten zum wechseln des Anbieters frei zur Verfügung zu stellen. **Ein einmal bei einem Anbieter begonnenes Projekt bleibt daher oft für immer bei diesem Anbieter**, und wenn später gewechselt wird (werden muss), dann geschieht dies oft unter Verlust aller bisher entstandenen Daten, was den Wechsel erschwert, unmöglich macht, oder die Hürden entsprechend hoch sind. 
+Eine Plattform (oder Software) für »digitalen Austausch in einer Region und Kommune« zu finden ist nicht so einfach wie es vielleicht auf einen ersten Blick erscheinen mag. Es gibt dabei viele Aspekte zu beachten.
 
-Über solche technische Aspekte von **Datenhaltung, Cloud, Softwarearchitektur, Softwaremethoden und allgemein Informatik– Daten und Informationstechnologie bezogenen Konzepten** würde sich in Bezug auf diese Themen sehr viel Diskussions und Informationsbedarf eines für–und–widers Beleuchten lassen; und dann hat man immer *noch keine Lösung* für einen »konkreten digitalen Austausch«, sondern fängt vielmehr wieder von vorne an gewonnene Informationen miteinander zu vergleichen. Nur eben jetzt mit all dem Wissen und den Hintergründen im Hinterkopf. Hinzu kommt, dass ein solcher Vergleich nur Möglich ist, wenn man auch entsprechend viel von digitalen und sozialen, sowie kulturellen und Menschen bezogenen Themen versteht und im Kontext der Aspekte einordnen kann. 
+Zunächst einmal sind ie Vorraussetzungen und Gewohnheiten von Menschen – was digitales angeht – sehr vielfältig und vor allem häufig auch enorm unterschiedlich. Es gibt zudem viele Anbieter von Community-Lösungen, Software und Technologien, und jedes Angebot hat dabei vielschichtige Aspekte die damit zusammenhängen, und verbunden sind. Jedes Angebot und jede Lösung bringt verschiedenartige Vor- und Nachteile mit sich. 
+
+Manche dieser Angebote bieten Lösungen für *ganz spezifische Aspekte*, und andere bieten eher allgemeine Möglichkeiten, die gegebenenfalls nur eine kleine Gruppe bedienen und benutzen kann. 
+
+Alle Angebote sind zunächst einmal immer an eine »spezifische technische Plattform« gebunden, die sich oft später nur schwer oder manchmal auch eher gar nicht mehr verändern, wechseln und austauschen lässt. Man *klebt* an diesen Anbietern mit dieser spezifischen Lösung. Oft ergibt sich dies allein schon aus dem Grund ~ weil alle Daten die entstehen beim Anbieter liegen, und diese (oft auch Absichtlich) nicht so einfach *irgendwo anders hin gebracht* werden können. Das Interesse eines Anbieters ist es oft auch gar nicht, einen Wechsel des Anbieters einfach zu machen, und frei zur Verfügung zu stellen. 
+
+**Ein einmal bei einem Anbieter begonnenes Projekt bleibt daher oft für immer bei diesem Anbieter**, und wenn später gewechselt wird (werden müsste), dann geschieht dies oft genug unter Verlust ALLER (oder der meisten) der bisher entstandenen Daten. Das macht einen späteren Wechsel des Anbieters oft schwer, oder gar auch unmöglich. Die Hürden sind oft entsprechend hoch, und der Aufwand nicht vertretbar, so dass diese Projekte meist später einen Tod durch *nicht mehr benutzen* sterben. 
+
+Über solche technische Aspekte von **Datenhaltung, Cloud, Softwarearchitektur, Softwaremethoden und allgemein Informatik– Daten und Informationstechnologie bezogenen Konzepten** würde sich in Bezug auf diese Themen sehr viel Diskussions und Informationsbedarf, eines für–und–widers Beleuchten lassen; und dann hat man immer *noch keine Lösung* für einen »konkreten digitalen Austausch«, sondern fängt vielmehr wieder von vorne an gewonnene Informationen miteinander zu vergleichen und einzuordnen. Nur eben jetzt mit all dem Wissen und den Hintergründen im Hinterkopf. Hinzu kommt, dass ein solcher Vergleich nur Möglich ist, wenn man auch entsprechend viel von digitalen und sozialen, sowie kulturellen und Menschen bezogenen Themen versteht und im Kontext der Aspekte einordnen kann. 
 
 Man kann dies vielleicht abkürzen: 
 
@@ -10,7 +18,7 @@ Es gibt **einige etablierte digitale Communities**, die auch Software und Server
 
 Facebook hat sich (auf seine Art) zu einem solchen Angebot entwickelt. Twitter (jetzt X), oder manche Forensoftware, Fediverse, und einige andere. In anderen Ländern wird Facebook viel mehr benutzt als in Mitteleuropa, auch in Deutschland haben sich jedoch Anhänger für Facebook gefunden. Das große Problem mit solchen plattformen wie Facebook ist, dass sie ein Datensilo sind, ind das Daten und Informationen hinein gehen, aber nie wieder heraus. Die Plattformen leben von Werbung, und verdienen ihre Milliarden mit Informationen zu Personen und deren Verbindungen untereinander. Auch hier ist ein rudimentäres eruieren der Lage und der Aspekte ein hoher Aufwand, der hier nicht näher betrachtet werden kann.    
 
-In Kurz: “Es gibt Menschen, die aus guten plausiblen Gründen alle Angebote von Meta (die Organisation, die hinter Facebook steht) meiden". 
+In Kurz gesagt: “Es gibt Menschen, die aus guten plausiblen Gründen alle Angebote von Meta (die Organisation, die hinter Facebook steht) meiden". 
 
 Zu diesem Meiden gehört auch Instagram, und es gehört Whatsapp ebenso dazu. Wie auch immer sich das verhält, warum auch immer das so ist, es ist ein nicht zu vernachlässigender Fakt. Die plausiblen und guten Gründe sind zudem ausreichend »dies zu tun«, und vielmehr auch sie zu respektieren, und andere lösungen zu finden, die ausserhalb solcher Plattformen funktionieren. 
 
@@ -19,11 +27,11 @@ Zu diesem Meiden gehört auch Instagram, und es gehört Whatsapp ebenso dazu. Wi
 Dann gibt es außerdem zudem noch die etablierte »Verwirrende Vorstellung« in den digitalen Methoden, dass Messenger eine geeignete Methode seien, um eine digitale Öffentlichkeit zu schaffen und diese öffentliche Kultur damit zu pflegen. *Wobei »digitale Öffentlichkeit« für sich genommen schon ein weitläufiger Bereich wäre, über den man erstmal reden müsste, um das einzuordnen.*    
 **Messenger sind KEINE Tools für demokratisch orientierte öffentliche Interaktion**, sondern vielmehr eine **private-Interaktion** ,die ja eben gerade **NICHT-ÖFFENTLICH** ist; und dies ja auch so sein soll. Messenger fallen also in eine ganz andere Kategorie, als digitale Methoden des digitalen öffentlichen Austauschs. Und dann gibt es noch so etwas wie "digitale Privatheit"; und immer noch die selbe Frage von oben »Was ist die digitale Öffentlichkeit überhaupt?».
 
-## Um das ganze abzukürzen, 
-
-denn über diese Aspekte würde sich noch sehr viel mehr erzählen lassen:
+All das gesagte mit einbezogen, und Aspekte betrachtet, hat sich eine Möglichkeit ergeben.
 
 In einigen Bereichen und Gruppen der Gesellschaft hat sich die [Plattform DISCORD](https://de.wikipedia.org/wiki/Discord) etabliert und wird dort seit vielen Jahren erfolgreich eingesetzt. 
+
+## Discord
 
 **Discord** hat – aus einigen Betrachtungen heraus *einige Nachteile* –, jedoch aus anderen Betrachtungen angeschaut **sehr viele Vorteile**. 
 
