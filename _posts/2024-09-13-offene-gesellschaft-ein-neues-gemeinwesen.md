@@ -1,6 +1,6 @@
-—  
-title: Eine ande**re offene Gesellschaft wagen, für ein neues Gemeinwesen**  
-**—**  
+---
+title: Eine andere offene Gesellschaft wagen, für ein neues Gemeinwesen
+---  
 Das Konzept der offenen Gesellschaft ist geprägt von Pluralismus, Toleranz und einem freien Austausch von Ideen, und es ist ein überaus erstrebenswertes Ideal.      
 In einer Zeit zunehmender Polarisierung und gesellschaftlicher Spaltung stellt sich momentan die Frage, wie wir eine solche offene Gesellschaft gestalten können, die den Herausforderungen unserer Zeit gerecht werden kann. Eine andere, eine offenere Gesellschaft erfordert eine **grundlegende Neuausrichtung unserer Werte und Normen** in Bezug zu unterschiedlichen Meinungen und Weltanschauungen.
 
