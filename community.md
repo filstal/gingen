@@ -22,16 +22,16 @@ Du kannst der Community beitreten indem du dich dort anmeldest.
 
 **Textkanäle:**
 
-- **Willkommen:** Hier findest du alle wichtigen Informationen und kannst dich kurz vorstellen.
-- **Chatraum:** Hier kannst du dich mit anderen Menschen unterhalten.
-- **Events:** Teile hier deine Veranstaltungen mit der Community und finde spannende Events in deiner Nähe.
-- **Humor:** Hier ist der Platz für Witze, Memes und alles, was dich zum Lachen bringt.
-- **Nachbarschaftshilfe:** Benötigst du Hilfe oder möchtest du anderen helfen? Hier findest du Unterstützung. konkret: Regionales, Sozialraumorientiertes.
-- **Marktplatz:** Biete hier deine Sachen an oder finde genau das, was du suchst.
+- **Willkommen:** Hier finden sich alle wichtigen grundlegenden Informationen.
+- **Chatraum:** Hier kann man sich mit anderen Menschen unterhalten.
+- **Events:** Veranstaltungen und Events in der Nähe. (durch Organisatoren selbst verwaltet)
+- **Humor:** Witze, Memes und was zum Lachen bringt.
+- **Nachbarschaftshilfe:** Unterstützung im Sozial- und Strukturraum. Angebot und Anfragen. Konkret und Abstrakt.
+- **Marktplatz:** Angebot und Nachfrage für materielles und immaterielles. 
 
 **Sprachkanäle:**
 
-- **"Plauderecke":** Sich per Sprache (Voice) unterhalten.
+- **"Plauderecke":** Sich mit anderen über einen Sprachkanal (Voice) unterhalten.
 
 *Weitere Kanäle kommen je nach Bedarf hinzu.*
 
