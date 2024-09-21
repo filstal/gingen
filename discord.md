@@ -8,37 +8,30 @@ Hier ist eine Schritt-für-Schritt-Anleitung, wie du dich bei Discord anmeldest 
 
 ## 1. Discord herunterladen und installieren:
 
-Besuche die offizielle Discord-Website: Gehe in deinem Browser zu https://discord.com/
-
-Lade die App herunter: Klicke auf den großen blauen Button "Für deinen Computer herunterladen".
-
-Installiere die App: Folge den Anweisungen auf dem Bildschirm, um die heruntergeladene Datei zu installieren.
+1. Besuche die offizielle Discord-Website: Gehe in deinem Browser zu https://discord.com/
+2. Lade die App herunter: Klicke auf den großen blauen Button "Für deinen Computer herunterladen".
+3. Installiere die App: Folge den Anweisungen auf dem Bildschirm, um die heruntergeladene Datei zu installieren.
 
 ## 2. Discord-Konto erstellen:
 
-App öffnen: Starte die frisch installierte Discord-App.
-
-Registrierung: Wähle "Konto erstellen" und gib deine gewünschten Anmeldedaten ein (Benutzername, E-Mail, Passwort).
-
-Verifizierung: Überprüfe deine E-Mail-Adresse, um dein Konto zu bestätigen.
+1. App öffnen: Starte die frisch installierte Discord-App.
+2. Registrierung: Wähle "Konto erstellen" und gib deine gewünschten Anmeldedaten ein (Benutzername, E-Mail, Passwort).
+3. Verifizierung: Überprüfe deine E-Mail-Adresse, um dein Konto zu bestätigen.
 
 ## 3. Einem Server beitreten:
 
-Einladungslink: Wenn du zu einem Server eingeladen wurdest, hast du einen speziellen Link erhalten. Klicke einfach darauf, um dem Server beizutreten.
+**Einladungslink:** Wenn du zu einem Server eingeladen wurdest, hast du einen speziellen Link erhalten. Klicke einfach darauf, um dem Server beizutreten.
 
-Server suchen:
+### Server suchen:
 
-Direktes Beitreten: Wenn du den Servernamen kennst, kannst du in der Suchleiste oben nach ihm suchen und dann "Beitreten" klicken.
-
-Über Freunde: Wenn ein Freund bereits auf einem Server ist, kannst du ihn bitten, dich einzuladen.
+- **Direktes Beitreten:** Wenn du den Servernamen kennst, kannst du in der Suchleiste oben nach ihm suchen und dann "Beitreten" klicken.
+- **Über Freunde:** Wenn ein Freund bereits auf einem Server ist, kannst du ihn bitten, dich einzuladen.
 
 ## Tipps:
 
-Server-Kategorien: Discord-Server sind in verschiedene Kategorien unterteilt (z.B. Textkanäle, Sprachkanäle).
-
-Benutzerprofile: Du kannst dein Profil anpassen, um dich anderen Mitgliedern vorzustellen.
-
-Einstellungen: In den Einstellungen kannst du Benachrichtigungen, Privatsphäre und andere Einstellungen anpassen.
+- **Server-Kategorien:** Discord-Server sind in verschiedene Kategorien unterteilt (z.B. Textkanäle, Sprachkanäle).
+- **Benutzerprofile:** Du kannst dein Profil anpassen, um dich anderen Mitgliedern vorzustellen.
+- **Einstellungen:** In den Einstellungen kannst du Benachrichtigungen, Privatsphäre und andere Einstellungen anpassen.
 
 ## Häufige Fragen:
 
@@ -58,13 +51,14 @@ Discord ist im Allgemeinen sicher, aber wie bei jeder Online-Plattform solltest 
 
 ### Discord Nitro: 
 
-Mit Discord Nitro kannst du zusätzliche Funktionen freischalten, wie z.B. animierte Avatare und größere Upload-Limits.
+Mit Discord Nitro kannst du zusätzliche Funktionen freischalten, wie z.B. animierte Avatare und größere Upload-Limits. *Wird nicht zur Benutzung gebraucht, und ist eine Erweiterung.*
 
 ### Discord Mobile: 
 
-Discord ist auch als App für Smartphones und Tablets verfügbar.
+Discord ist auch als App für Smartphones und Tablets verfügbar. im Android Playstore und im Appstore-IOS
 
 ## Sonstige Fragen
 
-Für Fragen zu allem stehen wir in der Discord Online Community gerne zur Verfügung. Du kannst uns dort Kontaktieren. 
+Für weitere Fragen stehen wir in der Discord Online Community gerne zur Verfügung. Du kannst uns dort Kontaktieren. 
 
+Stand: 2024-09-21
