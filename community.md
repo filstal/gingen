@@ -22,8 +22,8 @@ Du kannst der Community beitreten indem du dich dort anmeldest.
 
 **Textkanäle:**
 
-- **Willkommen:** Hier finden sich alle wichtigen grundlegenden Informationen.
-- **Chatraum:** Hier kann man sich mit anderen Menschen unterhalten.
+- **Willkommen:** Grundlegenden Informationen und Basis-Kanal für das Angebot.
+- **Chatraum:** Sich mit anderen Menschen (aus der Region) unterhalten.
 - **Events:** Veranstaltungen und Events in der Nähe. (durch Organisatoren selbst verwaltet)
 - **Humor:** Witze, Memes und was zum Lachen bringt.
 - **Nachbarschaftshilfe:** Unterstützung im Sozial- und Strukturraum. Angebot und Anfragen. Konkret und Abstrakt.
