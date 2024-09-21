@@ -19,7 +19,7 @@ Wir sind als [Bürgerinitiative (WP)](https://de.wikipedia.org/wiki/B%C3%BCrgeri
 
 *Die Organisatoren sind im verlinkten Discord Cannel öffentlich erreichbar und Ansprechbar.* 
 
-Ziel ist der Aufbau einer Sozialraumorientierten digitalen und auch regional verankerten Gemeinschaft. Der austausch findet über den digitalen Raum statt, und ist *für jeden* öffentlich zugänglich. 
+Ziel ist der Aufbau einer Sozialraumorientierten digitalen und auch regional verankerten Gemeinschaft. Der Austausch findet über den digitalen Raum statt, und ist *für jeden* öffentlich zugänglich. 
 
 Als Digitalraum wird die Plattform Discord benutzt. 
 
