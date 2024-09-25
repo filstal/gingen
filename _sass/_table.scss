@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700');
+
 $gray: #777B7B;
 $gray-text: #7E9292;
 $gray-light: #D5D7DA;
@@ -7,15 +9,14 @@ $green: #89CE8C;
 $red: #DD7683;
 $color-link: #0292C7;
 
-$st-transition: all 0.2s ease;
+$st-transition: all 0.3s ease;
 
-html {
-  font-family: "Open Sans";
-}
 
-body {
+
+.table1 {
   background: #ECF1F4;
   margin: 0;
+  font-family: "Open Sans";
 }
 
 .search-bar {
@@ -33,7 +34,7 @@ body {
     width: 90%;
     outline: none;
   }
-  a {
+  table a {
     border: 1px solid $gray-blue-light;
     background: $gray-lighter;
     border-top-right-radius: 3px;
